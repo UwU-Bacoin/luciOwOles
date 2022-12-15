@@ -1,0 +1,6 @@
+img/*.bmp
+bin
+.idea
+.classpath
+.project
+.settings
